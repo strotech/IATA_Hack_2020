@@ -10,7 +10,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
     appBar:AppBar(
-      title:Text('eCommerce Portal',
+      title:Text('AirCargo eCommerce Portal',
       style:TextStyle(fontSize: 20.0,
         fontWeight: FontWeight.bold,
         letterSpacing: 2.0,
